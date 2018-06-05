@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample web application
+Welcome to the AWS CodeStar Mwebaza web application
 ==================================================
 
 This sample code helps get you started with a simple Django web application
@@ -49,6 +49,8 @@ AWS CodeStar user guide.
    the following command:
 
         $ virtualenv .venv
+        $ python3 -m venv venv // if you are using Python > 3 
+    Read Up: https://docs.python.org/3/library/venv.html
 
 2. Activate the virtual environment:
 
